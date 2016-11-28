@@ -159,6 +159,8 @@ HLT_PFHT650_4JetPt50_v*                                                   hltPF4
 HLT_PFHT750_4JetPt50_v*                                                   hltPF4JetPt50HT750                                                                1
 HLT_PFHT800_4JetPt50_v*                                                   hltPF4JetPt50HT800                                                                1
 HLT_PFHT850_4JetPt50_v*                                                   hltPF4JetPt50HT850                                                                1
+HLT_PFHT650_WideJetMJJ900DEtaJJ1p5_v*					  hltFatDiPFJetMass900DR1p1Deta1p5						    1
+HLT_PFHT650_WideJetMJJ950DEtaJJ1p5_v*					  hltFatDiPFJetMass950DR1p1Deta1p5						    1
 HLT_Photon22_v*                                                           hltEG22HEFilter                                                                   1
 HLT_Photon30_v*                                                           hltEG30HEFilter                                                                   1
 HLT_Photon36_v*                                                           hltEG36HEFilter                                                                   1
