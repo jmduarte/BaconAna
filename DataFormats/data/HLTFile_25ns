@@ -181,6 +181,8 @@ HLT_AK8PFHT650_TrimR0p1PT0p03Mass50_v*                                    hlt1AK
 HLT_AK8PFHT600_TrimR0p1PT0p03Mass50_BTagCSV_p20_v*                        hlt1AK8PFJetsTrimR0p1PT0p03Mass50                                                 1
 HLT_AK8DiPFJet250_200_TrimMass30_v*                                       hltAK8PFJet200TrimModMass30                                                       1
 HLT_AK8DiPFJet250_200_TrimMass30_BTagCSV_p20_v*                           hltAK8PFJet200TrimModMass30                                                       1
+HLT_AK8DiPFJet280_200_TrimMass30_v*                                       hltAK8PFJet200TrimModMass30                                                       1
+HLT_AK8DiPFJet280_200_TrimMass30_BTagCSV_p20_v*                           hltAK8PFJet200TrimModMass30                                                       1
 HLT_RsqMR240_Rsq0p09_MR200_v*						  hltRsqMR240Rsq0p09MR200							    1
 HLT_RsqMR240_Rsq0p09_MR200_4jet_v*					  hltRsqMR240Rsq0p09MR200							    1
 HLT_RsqMR270_Rsq0p09_MR200_v*						  hltRsqMR270Rsq0p09MR200							    1
@@ -198,3 +200,5 @@ HLT_DiPFJetAve260_v*							  hltAK4PFJetsTightIDCorrected							    1
 HLT_DiPFJetAve320_v*							  hltAK4PFJetsTightIDCorrected							    1
 HLT_DiPFJetAve400_v*							  hltAK4PFJetsTightIDCorrected							    1
 HLT_DiPFJetAve500_v*							  hltAK4PFJetsTightIDCorrected							    1
+HLT_AK8PFJet450_v*							  hltSinglePFJet450AK8
+HLT_PFJet450_v*								  hltSinglePFJet450
