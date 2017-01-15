@@ -22,6 +22,7 @@ HLT_Ele32_eta2p1_WPLoose_Gsf_v*                                           hltEle
 HLT_Ele32_eta2p1_WPTight_Gsf_v*                                           hltEle32WPTightGsfTrackIsoFilter                                                  1
 HLT_Ele35_WPLoose_Gsf_v*                                                  hltEle35WPLooseGsfTrackIsoFilter                                                  1
 HLT_Ele45_WPLoose_v*                                                      hltEle45WPLooseGsfTrackIsoFilter                                                  1
+HLT_Ele105_CaloIdVT_GsfTrkIdT_v*					  hltEle105CaloIdVTGsfTrkIdTGsfDphiFilter					    1
 HLT_Ele20_eta2p1_WPLoose_Gsf_LooseIsoPFTau28_v*                           hltEle20WPLooseL1IsoEG18erIsoTau24erGsfTrackIsoFilter                             1
 HLT_Ele20_eta2p1_WPLoose_Gsf_LooseIsoPFTau28_v*                           hltPFTau28TrackLooseIso                                                           2
 HLT_Ele22_eta2p1_WPLoose_Gsf_LooseIsoPFTau20_SingleL1_v*                  hltEle22WPLooseL1SingleIsoEG20erGsfTrackIsoFilter                                 1
@@ -200,5 +201,5 @@ HLT_DiPFJetAve260_v*							  hltAK4PFJetsTightIDCorrected							    1
 HLT_DiPFJetAve320_v*							  hltAK4PFJetsTightIDCorrected							    1
 HLT_DiPFJetAve400_v*							  hltAK4PFJetsTightIDCorrected							    1
 HLT_DiPFJetAve500_v*							  hltAK4PFJetsTightIDCorrected							    1
-HLT_AK8PFJet450_v*							  hltSinglePFJet450AK8
-HLT_PFJet450_v*								  hltSinglePFJet450
+HLT_AK8PFJet450_v*							  hltSinglePFJet450AK8								    1
+HLT_PFJet450_v*								  hltSinglePFJet450								    1
